@@ -1,0 +1,16 @@
+git config --global user.name "nome"
+git config --global user.email "email@email"
+
+//Working Directory
+=>Iniciar um repositório
+  git init
+
+//Index ou Staging Area"
+=>Adicionar arquivos ao repositorio
+  git add .
+
+//Head, é o último estado que o git usa como referência.
+=>Salvando alterações
+  git commit -m "Comentario"
+
+
