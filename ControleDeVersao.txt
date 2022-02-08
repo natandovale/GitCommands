@@ -1,0 +1,23 @@
+LOCAL
+ Setup
+   git init
+   dotnet new gitignore
+ Versionando o projeto
+   git add
+   git status
+   git commit 
+   git log
+REMOTO
+ Enviando o repositorio local para um remoto
+   git remote show
+   git remote -v
+   git remote add origin https://ulr.com 
+   --enviando
+   git push -u origin master
+   --puxando
+
+ ----
+Sicronizando repositorio local com o remoto
+   git pull
+Ramificando
+   git checkout -b feature/feature1
