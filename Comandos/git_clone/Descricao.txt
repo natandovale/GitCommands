@@ -1,0 +1,2 @@
+Quando clonamos um repositorio, basicamente estamos trazendo os commits remotos
+para nossa máquina local.

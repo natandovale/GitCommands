@@ -1,0 +1,3 @@
+Quando adicionamos novos arquivos no repositorio eles vão para uma area chamada 
+staging que é um commit temporário para nossos arquivos que o git cria.
+Quando commitamos então essa area se torna de fato um commit.

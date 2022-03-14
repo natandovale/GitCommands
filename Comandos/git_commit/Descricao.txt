@@ -1,0 +1,2 @@
+Quando fazemos um commit, é criado um novo objeto de commit e a branch move o
+ponteiro dele, do commit antigo para o atual.

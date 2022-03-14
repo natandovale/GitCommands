@@ -1,0 +1,2 @@
+Primeiro ponto é que branchs são referencias, então quando fazemos o push, basicamente estamos movimentando o ponteiro da 
+branch remota para apontar para o novo commit.

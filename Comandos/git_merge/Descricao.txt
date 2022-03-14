@@ -1,0 +1,2 @@
+Com o comando merge criamos um commit que tem dois pais, um commit para 
+a branch pai e a branch atual.
